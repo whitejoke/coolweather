@@ -5,6 +5,8 @@
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/res" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../android-sdk-windows/extras/android/m2repository/com/android/support/animated-vector-drawable/24.0.0-alpha1/animated-vector-drawable-24.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
